@@ -1,4 +1,10 @@
-#Revit #API #CSharp #BugOrFeature 
+---
+tags:
+  - Revit
+  - API
+  - CSharp
+  - FeatureOrBug
+---
 # The Problem
 Have you ever tried to check whether a Revit [built-in parameter](https://apidocs.co/apps/revit/2024/fb011c91-be7e-f737-28c7-3f1e1917a0e0.htm) is an instance or a type parameter by trying to get it from an element and examining the results? Let's say at runtime you have a built-in parameter, which the user gave or selected. At his point you don't know if it's an instance or a type parameter. An experienced developer would try to get this parameter from an element and examine the result, say i tried to get this parameter of a type and got back a null, than i know that this is an instance parameter (assuming that the category of the element is such that is has this parameter).
 
