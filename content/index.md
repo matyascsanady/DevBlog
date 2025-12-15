@@ -11,4 +11,6 @@ Next to my work, I currently teach at BME in Budapest at both the Architecture a
 
 I'm happy that you are here, be sure to check out some of my stuff.
 - Revit API facts and *"funny things"* -> like [[1 - Type parameters from instances]]
-- Other Dev related topics
+- Other Dev related topics on this blog
+- My [GitHub](https://github.com/matyascsanady) contains some interesting repositories (at least for me) for example:
+	- The [public archive](https://github.com/matyascsanady/RevitEnhance-Deprecated) of a pyRevit extension for my bachelors.
