@@ -28,7 +28,7 @@ private readonly List<BuiltInParameter> _blacklist = [
 // later
 
 // check if it's in the blacklist
-if (_typeParameterBlacklist.Contains((BuiltInParameter)parameterModel.Id))
+if (_blacklist.Contains(builtInParameter))
 {
 	continue;
 }
