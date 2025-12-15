@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Dev Blog",
-    pageTitleSuffix: " - Mátyás Csanády",
+    pageTitleSuffix: " - Dev Blog @ Mátyás Csanády",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
