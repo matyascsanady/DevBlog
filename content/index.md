@@ -9,6 +9,8 @@ I'm Mátyás Csanády currently working as a BIM expert / Revit API developer fo
 
 Next to my work, I currently teach at BME in Budapest at both the Architecture and Civil Engineering faculty. For the architects I teach Revit software use, a beginner course, to teach them the basics of Revit modelling. For the Civil Engineering faculty, as a guest lecturer, I talk about the different automation options available in Revit and showcase some stuff we did as a company.
 
+If you are interested in my carrier in more detail checkout my [[Life]].
+
 I'm happy that you are here, be sure to check out some of my stuff.
 - Revit API facts and *"funny things"* -> like [[1 - Type parameters available from instances]]
 - Other Dev related topics on this blog
